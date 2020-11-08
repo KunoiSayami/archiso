@@ -59,7 +59,7 @@ mtools
 nano
 nbd
 ndisc6
-neofetch
+#neofetch
 nfs-utils
 nilfs-utils
 nmap
