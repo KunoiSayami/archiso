@@ -2,7 +2,7 @@
 # shellcheck disable=SC2034
 
 iso_name="archlinux"
-iso_label="ARCH_$(date +%Y%m%d)"
+iso_label="ARCH_$(date +%Y%U)"
 iso_publisher="KunoiSayami <46131041+KunoiSayami@users.noreply.github.com>"
 iso_application="Arch Linux Live/Rescue CD"
 iso_version="$(date +%Y.%m.%d)"
